@@ -239,24 +239,11 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👏 Acknowledgments
 
 *   Country flags provided by [FlagCDN](https://flagcdn.com)
 *   Icons designed with love
 *   Built for the Twitter/X community
-
----
-
-## 💬 Support
-
-*   **Issues**: [GitHub Issues](#)
-*   **Privacy Policy**: [View Policy](https://gist.githubusercontent.com/prabhat35/5470392bffdf908da90ce24af93ab115/raw/dc6f47baea12e6eeb9ea82362feb960a710fc33f/privacy-policy.md)
 
 ---
 
@@ -269,8 +256,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *   **Safe** - Click-to-reveal protects your account
 *   **Beautiful** - Gorgeous UI that feels native
 *   **Global** - Supports 150+ countries
-
-**Download now and start revealing the world behind the tweets!**
 
 ---
 
