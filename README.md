@@ -23,7 +23,7 @@
 
 ## Features
 
-### Click-to-Reveal Design
+### <img src="assets/cursor.svg" width="18" height="18" align="center"> Click-to-Reveal Design
 Unlike other extensions that auto-load everything, X-Ray uses a **smart click-to-reveal** system. This protects your account from Twitter/X's aggressive rate limits while giving you full control over what data you fetch.
 
 **Why click-to-reveal?**
@@ -32,19 +32,19 @@ Unlike other extensions that auto-load everything, X-Ray uses a **smart click-to
 *   **Faster performance** - Only loads what you actually want to see
 *   **Smart caching** - Once loaded, data is cached for instant re-display
 
-### Beautiful Interface
+### <img src="assets/palette.svg" width="18" height="18" align="center"> Beautiful Interface
 *   Sleek, modern design that blends seamlessly with Twitter/X
 *   Smooth animations and hover effects
 *   Color-coded platforms (iOS blue, Android green)
 *   Glassmorphic styling with rotating borders
 
-### Privacy-First
+### <img src="assets/shield.svg" width="18" height="18" align="center"> Privacy-First
 *   **Zero data collection** - We don't track, store, or transmit anything
 *   **Local storage only** - All data stays in your browser session
 *   **No external servers** - Everything runs locally
 *   **Open source** - Full transparency, audit the code yourself
 
-### Performance Optimized
+### <img src="assets/zap.svg" width="18" height="18" align="center"> Performance Optimized
 *   DNS prefetch for faster flag loading
 *   Smart caching system
 *   Efficient DOM manipulation
@@ -67,47 +67,47 @@ Unlike other extensions that auto-load everything, X-Ray uses a **smart click-to
 
 ### The Problem with Auto-Loading
 Many extensions automatically fetch data for every user you see. This causes:
-*   **Rate limit bans** - Twitter/X blocks excessive requests
-*   **Account suspension risk** - Automated behavior triggers security flags
-*   **Slow performance** - Loading hundreds of profiles kills your browser
-*   **Wasted bandwidth** - Fetching data you don't need
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> **Rate limit bans** - Twitter/X blocks excessive requests
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> **Account suspension risk** - Automated behavior triggers security flags
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> **Slow performance** - Loading hundreds of profiles kills your browser
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> **Wasted bandwidth** - Fetching data you don't need
 
 ### Our Solution
 X-Ray's **click-to-reveal** approach means:
-*   **You stay safe** - Only fetch what you need, when you need it
-*   **No rate limits** - Controlled, manual requests don't trigger Twitter's defenses
-*   **Blazing fast** - Instant response with smart caching
-*   **Full control** - You decide what to reveal
+*   <img src="assets/check.svg" width="14" height="14" align="center"> **You stay safe** - Only fetch what you need, when you need it
+*   <img src="assets/check.svg" width="14" height="14" align="center"> **No rate limits** - Controlled, manual requests don't trigger Twitter's defenses
+*   <img src="assets/check.svg" width="14" height="14" align="center"> **Blazing fast** - Instant response with smart caching
+*   <img src="assets/check.svg" width="14" height="14" align="center"> **Full control** - You decide what to reveal
 
 ---
 
 ## Use Cases
 
-*   **Researchers** - Analyze geographic distribution of discussions
-*   **Journalists** - Verify user locations for fact-checking
-*   **Marketers** - Understand audience demographics
-*   **OSINT** - Open-source intelligence gathering
-*   **Curious Users** - Learn more about who you interact with
-*   **Network Analysis** - Map connections across regions
+*   <img src="assets/search.svg" width="16" height="16" align="center"> **Researchers** - Analyze geographic distribution of discussions
+*   <img src="assets/newspaper.svg" width="16" height="16" align="center"> **Journalists** - Verify user locations for fact-checking
+*   <img src="assets/chart.svg" width="16" height="16" align="center"> **Marketers** - Understand audience demographics
+*   <img src="assets/eye.svg" width="16" height="16" align="center"> **OSINT** - Open-source intelligence gathering
+*   <img src="assets/eye.svg" width="16" height="16" align="center"> **Curious Users** - Learn more about who you interact with
+*   <img src="assets/network.svg" width="16" height="16" align="center"> **Network Analysis** - Map connections across regions
 
 ---
 
 ## Privacy & Security
 
 ### What We DON'T Do
-*   No tracking or analytics
-*   No data collection
-*   No external servers
-*   No cookies
-*   No user profiling
-*   No ads
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No tracking or analytics
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No data collection
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No external servers
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No cookies
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No user profiling
+*   <img src="assets/cross.svg" width="14" height="14" align="center"> No ads
 
 ### What We DO
-*   Access only publicly available profile information
-*   Store data locally in your browser session only
-*   Clear cache when you close your browser
-*   Use standard web security practices (XSS prevention, origin validation)
-*   Respect Twitter/X rate limits with click-to-reveal
+*   <img src="assets/check.svg" width="14" height="14" align="center"> Access only publicly available profile information
+*   <img src="assets/check.svg" width="14" height="14" align="center"> Store data locally in your browser session only
+*   <img src="assets/check.svg" width="14" height="14" align="center"> Clear cache when you close your browser
+*   <img src="assets/check.svg" width="14" height="14" align="center"> Use standard web security practices (XSS prevention, origin validation)
+*   <img src="assets/check.svg" width="14" height="14" align="center"> Respect Twitter/X rate limits with click-to-reveal
 
 **Your privacy is our priority.**
 
