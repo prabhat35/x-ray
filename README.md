@@ -1,10 +1,22 @@
-# 🔎 X-Ray for Twitter
-
-> **Reveal the hidden location and device info of any Twitter/X user with a single click**
+# X-Ray for Twitter
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=google-chrome)](https://chrome.google.com/webstore)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0-orange.svg)](manifest.json)
+
+> **Reveal the user location and device info of any Twitter/X user with a single click based on publically available data**
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/s1.png" alt="X-Ray Extension in Action" width="800">
+  <p><em>X-Ray seamlessly integrates into Twitter/X with click-to-reveal location icons</em></p>
+  
+  <img src="assets/s2.png" alt="Location and Device Details" width="800">
+  <p><em>Instantly see user location with country flags and device platform information</em></p>
+</div>
 
 ---
 
@@ -52,7 +64,7 @@ Unlike other extensions that auto-load everything, X-Ray uses a **smart click-to
 
 ---
 
-## 🚀 How It Works
+## How It Works ?
 
 1.  **Browse Twitter/X normally** - Extension adds a small location icon <img src="assets/pin.svg" width="16" height="16" align="center"> next to usernames
 2.  **Click the location icon** - Instantly loads the user's public location data
@@ -65,14 +77,14 @@ Unlike other extensions that auto-load everything, X-Ray uses a **smart click-to
 
 ## 🎯 Why Click-to-Reveal?
 
-### 🛑 The Problem with Auto-Loading
+### The Problem with Auto-Loading
 Many extensions automatically fetch data for every user you see. This causes:
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> **Rate limit bans** - Twitter/X blocks excessive requests
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> **Account suspension risk** - Automated behavior triggers security flags
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> **Slow performance** - Loading hundreds of profiles kills your browser
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> **Wasted bandwidth** - Fetching data you don't need
 
-### ✅ Our Solution
+### Our Solution
 X-Ray's **click-to-reveal** approach means:
 *   <img src="assets/check.svg" width="14" height="14" align="center"> **You stay safe** - Only fetch what you need, when you need it
 *   <img src="assets/check.svg" width="14" height="14" align="center"> **No rate limits** - Controlled, manual requests don't trigger Twitter's defenses
@@ -94,7 +106,7 @@ X-Ray's **click-to-reveal** approach means:
 
 ## 🛡️ Privacy & Security
 
-### ❌ What We DON'T Do
+### What It Does Not Do
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> No tracking or analytics
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> No data collection
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> No external servers
@@ -102,7 +114,7 @@ X-Ray's **click-to-reveal** approach means:
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> No user profiling
 *   <img src="assets/cross.svg" width="14" height="14" align="center"> No ads
 
-### ✅ What We DO
+### What It Does
 *   <img src="assets/check.svg" width="14" height="14" align="center"> Access only publicly available profile information
 *   <img src="assets/check.svg" width="14" height="14" align="center"> Store data locally in your browser session only
 *   <img src="assets/check.svg" width="14" height="14" align="center"> Clear cache when you close your browser
